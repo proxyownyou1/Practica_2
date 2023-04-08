@@ -1,0 +1,16 @@
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.csproj.AssemblyReference.cache
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\MainWindow.g.cs
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\App.g.cs
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi_MarkupCompile.cache
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi_MarkupCompile.lref
+C:\Users\grish\Desktop\wpf_hanoi\bin\Debug\wpf_hanoi.exe.config
+C:\Users\grish\Desktop\wpf_hanoi\bin\Debug\wpf_hanoi.exe
+C:\Users\grish\Desktop\wpf_hanoi\bin\Debug\wpf_hanoi.pdb
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\MainWindow.baml
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.g.resources
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.Properties.Resources.resources
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.csproj.GenerateResource.cache
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.csproj.CoreCompileInputs.cache
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.exe
+C:\Users\grish\Desktop\wpf_hanoi\obj\Debug\wpf_hanoi.pdb
